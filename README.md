@@ -1,17 +1,22 @@
-# videoupdown
+# 📱 Vandr Reels
+**Vandr Reels** adalah aplikasi pemutar video vertikal (TikTok Style) yang dirancang khusus untuk memutar koleksi video lokal dari smartphone kamu. Dibuat dengan Flutter dan sentuhan desain minimalis ala macOS.
 
-A new Flutter project.
+### ✨ Fitur Utama:
+* **Vertical Infinity Scroll:** Pengalaman menonton video tanpa henti.
+* **Custom Folder Picker:** Pilih folder video sesukamu dari galeri HP.
+* **Smart Play/Pause:** Ketuk layar untuk menjeda atau melanjutkan video.
+* **macOS UI Style:** Antarmuka bersih dengan efek Glassmorphism.
+* **Persistence Storage:** Mengingat folder terakhir yang kamu pilih.
 
-## Getting Started
+### 🛠️ Tech Stack:
+* **Framework:** Flutter (3.41.6)
+* **OS Development:** Linux Mint
+* **Device Test:** Redmi Note 10 Pro
 
-This project is a starting point for a Flutter application.
+### 👤 Developer:
+* **Name:** Agung Andrianto
+* **Instagram:** [@agunggandr]
+* **GitHub:** [https://github.com/Agungandr]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Handcrafted with ❤️ on ASUS A455LF (Intel i3-5005U)*
